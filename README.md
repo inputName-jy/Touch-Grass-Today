@@ -12,6 +12,7 @@ N/A
 
 ## Usage
 To use the weather application, go to the link here:
+https://inputname-jy.github.io/Touch-Grass-Today/
 
 To use the weather app, simply type in the city of your choice and click the search button. The current weather and 4 day forecast will be displayed.
 Your previous searches will appear as buttons that will allow you to quickly pull up the weather for that city, when clicked.
